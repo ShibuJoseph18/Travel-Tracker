@@ -9,7 +9,7 @@ Express.js and PostgreSQL-powered web app to track visited countries
 ## Prerequisites
 - Node.js installed on your machine.
 - PostgreSQL installed and running locally.
-- 
+
 ## Installation
 
 1. Clone the repository:
